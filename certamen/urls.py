@@ -25,4 +25,8 @@ urlpatterns = [
     path('juguetes/', juguetes),
     path('electronica/', electronica),
     path('ropa/', ropa),	
+    path('juegos/',indexjuegos),
+    path('fortnite/',fortnite),
+    path('valorant/',valorant),
+    path('lol/',lol)
 ]
